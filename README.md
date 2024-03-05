@@ -58,7 +58,7 @@
 
 ### Github template
 
-[Create a repo from this template on GitHub.](https://github.com/AnwarHossainSR/youtube-clone-yt.git/generate)
+[Create a repo from this template on GitHub.](https://github.com/AnwarHossainSR/media-streaming.git/generate)
 
 <!-- ABOUT THE PROJECT -->
 
